@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="122494c0">
+        <description>Created after removal of "Source Map JS" from Instance Name</description>
+        <accepts>source-map-js_README.html</accepts>
+    </rule>
+    <rule id="46f4f8e0">
+        <description>Created after removal of "mime-db" from Instance Name</description>
+        <accepts>mime-db_README.html</accepts>
+    </rule>
+    <rule id="10b252d7">
+        <description>Created after removal of "1.52.0 / 2022-02-21" from Instance Name</description>
+        <accepts>HISTORY.html</accepts>
+    </rule>
+    <rule id="2cc41cbf">
+        <description>Created after removal of "Installation" from Instance Name</description>
+        <accepts>estree_README.html</accepts>
+    </rule>
+    <rule id="503a0ad3">
+        <description><![CDATA[Created after removal of "<LICENSE.md>" from Instance Name]]></description>
+        <accepts>LICENSE.html</accepts>
+    </rule>
+    <rule id="4f3f6181">
+        <description>Created after removal of "esbuild" from Instance Name</description>
+        <accepts>esbuild_README.html</accepts>
+    </rule>
+    <rule id="2583d5f8">
+        <description>Created after removal of "picocolors" from Instance Name</description>
+        <accepts>picocolors_README.html</accepts>
+    </rule>
+    <rule id="1296425a">
+        <description>
+            <![CDATA[Created after removal of "<laravel-vite-plugin_LICENSE.md>" from Instance Name]]></description>
+        <accepts>laravel-vite-plugin_LICENSE.html</accepts>
+    </rule>
+    <rule id="54972bea">
+        <description>Created after removal of "Laravel Vite Plugin" from Instance Name</description>
+        <accepts>laravel-vite-plugin_README.html</accepts>
+    </rule>
+    <rule id="17a36a82">
+        <description>Created after removal of "Rollup core license" from Instance Name</description>
+        <accepts>rollup_LICENSE.html</accepts>
+    </rule>
+    <rule id="341df701">
+        <description>
+            <![CDATA[Created after removal of "compile to a <script> containing a self-executing function" from Instance Name]]></description>
+        <accepts>rollup_README.html</accepts>
+    </rule>
+    <rule id="4bb84fea">
+        <description>Created after removal of "Release history" from Instance Name</description>
+        <accepts>picomatch_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="4a626aeb">
+        <description>Created after removal of ".makeRe star" from Instance Name</description>
+        <accepts>picomatch_README.html</accepts>
+    </rule>
+    <rule id="58a291cb">
+        <description>Created after removal of "combined-stream" from Instance Name</description>
+        <accepts>Readme.html</accepts>
+    </rule>
+    <rule id="3fa22119">
+        <description>Created after removal of "proxy-from-env" from Instance Name</description>
+        <accepts>proxy-from-env_README.html</accepts>
+    </rule>
+    <rule id="7dcabd63">
+        <description>Created after removal of "readdirp [![Weekly
+            downloads](https://img.shields.io/npm/dw/readdirp.svg)](https://github.com/paulmillr/readdirp)" from
+            Instance Name
+        </description>
+        <accepts>readdirp_README.html</accepts>
+    </rule>
+    <rule id="76c6bbcf">
+        <description>Created after removal of "asynckit [![NPM
+            Module](https://img.shields.io/npm/v/asynckit.svg?style=flat)](https://www.npmjs.com/package/asynckit)" from
+            Instance Name
+        </description>
+        <accepts>asynckit_README.html</accepts>
+    </rule>
+    <rule id="2aea9907">
+        <description>Created after removal of "Reporting a Vulnerability" from Instance Name</description>
+        <accepts>SECURITY.html</accepts>
+    </rule>
+    <rule id="1d46dcbf">
+        <description><![CDATA[Created after removal of "<axios_README.md>" from Instance Name]]></description>
+        <accepts>axios_README.html</accepts>
+    </rule>
+    <rule id="2213a589">
+        <description>Created after removal of "Migration Guide" from Instance Name</description>
+        <accepts>MIGRATION_GUIDE.html</accepts>
+    </rule>
+    <rule id="66f31cde">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>CHANGELOG.html</accepts>
+    </rule>
+    <rule id="26730aba">
+        <description>Created after removal of "axios // adapters" from Instance Name</description>
+        <accepts>adapters_README.html</accepts>
+    </rule>
+    <rule id="704921a0">
+        <description>Created after removal of "axios // helpers" from Instance Name</description>
+        <accepts>helpers_README.html</accepts>
+    </rule>
+    <rule id="4d5e616d">
+        <description>Created after removal of "axios // core" from Instance Name</description>
+        <accepts>core_README.html</accepts>
+    </rule>
+    <rule id="445c9a75">
+        <description>Created after removal of "axios // env" from Instance Name</description>
+        <accepts>env_README.html</accepts>
+    </rule>
+    <rule id="5c00a70a">
+        <description>Created after removal of "Chokidar [![Weekly
+            downloads](https://img.shields.io/npm/dw/chokidar.svg)](https://github.com/paulmillr/chokidar)" from
+            Instance Name
+        </description>
+        <accepts>chokidar_README.html</accepts>
+    </rule>
+    <rule id="73b135a">
+        <description>Created after removal of "Vite core license" from Instance Name</description>
+        <accepts>vite_LICENSE.html</accepts>
+    </rule>
+    <rule id="421eea8a">
+        <description>Created after removal of "vite ⚡" from Instance Name</description>
+        <accepts>vite_README.html</accepts>
+    </rule>
+    <rule id="57678377">
+        <description>
+            <![CDATA[Created after removal of "<follow-redirects_README.md>" from Instance Name]]></description>
+        <accepts>follow-redirects_README.html</accepts>
+    </rule>
+    <rule id="635a6350">
+        <description>Created after removal of "`@rollup/rollup-linux-x64-musl`" from Instance Name</description>
+        <accepts>rollup-linux-x64-musl_README.html</accepts>
+    </rule>
+    <rule id="7943dd3d">
+        <description>Created after removal of "`@rollup/rollup-linux-x64-gnu`" from Instance Name</description>
+        <accepts>rollup-linux-x64-gnu_README.html</accepts>
+    </rule>
+    <rule id="2413fb75">
+        <description>Created after removal of "Form-Data [![NPM
+            Module](https://img.shields.io/npm/v/form-data.svg)](https://www.npmjs.com/package/form-data) [![Join the
+            chat at
+            https://gitter.im/form-data/form-data](http://form-data.github.io/images/gitterbadge.svg)](https://gitter.im/form-data/form-data)"
+            from Instance Name
+        </description>
+        <accepts>form-data_Readme.html</accepts>
+    </rule>
+    <rule id="5aa6dac6">
+        <description>Created after removal of "PostCSS" from Instance Name</description>
+        <accepts>postcss_README.html</accepts>
+    </rule>
+    <rule id="331dd8e9">
+        <description>Created after removal of "Nano ID" from Instance Name</description>
+        <accepts>nanoid_README.html</accepts>
+    </rule>
+    <rule id="30a26201">
+        <description>
+            <![CDATA[Created after removal of "<vite-plugin-full-reload_README.md>" from Instance Name]]></description>
+        <accepts>vite-plugin-full-reload_README.html</accepts>
+    </rule>
+    <rule id="420a1d00">
+        <description>Created after removal of "esbuild" from Instance Name</description>
+        <accepts>linux-x64_README.html</accepts>
+    </rule>
+    <rule id="459cde11">
+        <description>Created after removal of "2.1.35 / 2022-03-12" from Instance Name</description>
+        <accepts>mime-types_HISTORY.html</accepts>
+    </rule>
+    <rule id="7e80c008">
+        <description>Created after removal of "mime-types" from Instance Name</description>
+        <accepts>mime-types_README.html</accepts>
+    </rule>
+    <rule id="488b9fca">
+        <description>Created after removal of "delayed-stream" from Instance Name</description>
+        <accepts>delayed-stream_Readme.html</accepts>
+    </rule>
+    <rule id="484112b6">
+        <description><![CDATA[Created after removal of "<sail_README.md>" from Instance Name]]></description>
+        <accepts>sail_README.html</accepts>
+    </rule>
+    <rule id="588a92ee">
+        <description><![CDATA[Created after removal of "<sail_LICENSE.md>" from Instance Name]]></description>
+        <accepts>sail_LICENSE.html</accepts>
+    </rule>
+    <rule id="6a0d6515">
+        <description><![CDATA[Created after removal of "<prompts_README.md>" from Instance Name]]></description>
+        <accepts>prompts_README.html</accepts>
+    </rule>
+    <rule id="1111b837">
+        <description><![CDATA[Created after removal of "<prompts_LICENSE.md>" from Instance Name]]></description>
+        <accepts>prompts_LICENSE.html</accepts>
+    </rule>
+    <rule id="4c6c0098">
+        <description><![CDATA[Created after removal of "<framework_README.md>" from Instance Name]]></description>
+        <accepts>framework_README.html</accepts>
+    </rule>
+    <rule id="7a8e4542">
+        <description>Created after removal of "Release Notes for 11.x" from Instance Name</description>
+        <accepts>framework_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="13d38aaa">
+        <description><![CDATA[Created after removal of "<framework_LICENSE.md>" from Instance Name]]></description>
+        <accepts>framework_LICENSE.html</accepts>
+    </rule>
+    <rule id="7cb1d0be">
+        <description><![CDATA[Created after removal of "<Queue_README.md>" from Instance Name]]></description>
+        <accepts>Queue_README.html</accepts>
+    </rule>
+    <rule id="2fafbea">
+        <description><![CDATA[Created after removal of "<Queue_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Queue_LICENSE.html</accepts>
+    </rule>
+    <rule id="162d4c01">
+        <description><![CDATA[Created after removal of "<Testing_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Testing_LICENSE.html</accepts>
+    </rule>
+    <rule id="77bd5e8">
+        <description><![CDATA[Created after removal of "<Filesystem_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Filesystem_LICENSE.html</accepts>
+    </rule>
+    <rule id="3cb2477b">
+        <description><![CDATA[Created after removal of "<Cache_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Cache_LICENSE.html</accepts>
+    </rule>
+    <rule id="28cf6ca4">
+        <description><![CDATA[Created after removal of "<Cookie_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Cookie_LICENSE.html</accepts>
+    </rule>
+    <rule id="436666af">
+        <description><![CDATA[Created after removal of "<Log_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Log_LICENSE.html</accepts>
+    </rule>
+    <rule id="73aeeac7">
+        <description><![CDATA[Created after removal of "<Container_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Container_LICENSE.html</accepts>
+    </rule>
+    <rule id="65d33dfe">
+        <description><![CDATA[Created after removal of "<Concurrency_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Concurrency_LICENSE.html</accepts>
+    </rule>
+    <rule id="180d0d3e">
+        <description><![CDATA[Created after removal of "<Events_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Events_LICENSE.html</accepts>
+    </rule>
+    <rule id="1a5212e">
+        <description><![CDATA[Created after removal of "<Collections_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Collections_LICENSE.html</accepts>
+    </rule>
+    <rule id="345f67c">
+        <description><![CDATA[Created after removal of "<Encryption_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Encryption_LICENSE.html</accepts>
+    </rule>
+    <rule id="c03005c">
+        <description><![CDATA[Created after removal of "<View_LICENSE.md>" from Instance Name]]></description>
+        <accepts>View_LICENSE.html</accepts>
+    </rule>
+    <rule id="60ddf429">
+        <description><![CDATA[Created after removal of "<Config_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Config_LICENSE.html</accepts>
+    </rule>
+    <rule id="21906cd9">
+        <description><![CDATA[Created after removal of "<Hashing_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Hashing_LICENSE.html</accepts>
+    </rule>
+    <rule id="1babea67">
+        <description><![CDATA[Created after removal of "<Console_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Console_LICENSE.html</accepts>
+    </rule>
+    <rule id="11664708">
+        <description><![CDATA[Created after removal of "<Process_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Process_LICENSE.html</accepts>
+    </rule>
+    <rule id="76a73067">
+        <description><![CDATA[Created after removal of "<Pagination_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Pagination_LICENSE.html</accepts>
+    </rule>
+    <rule id="272f9a77">
+        <description><![CDATA[Created after removal of "<Bus_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Bus_LICENSE.html</accepts>
+    </rule>
+    <rule id="a4b8b9c">
+        <description><![CDATA[Created after removal of "<Support_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Support_LICENSE.html</accepts>
+    </rule>
+    <rule id="3bdf557b">
+        <description><![CDATA[Created after removal of "<Pipeline_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Pipeline_LICENSE.html</accepts>
+    </rule>
+    <rule id="55de8fab">
+        <description><![CDATA[Created after removal of "<Routing_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Routing_LICENSE.html</accepts>
+    </rule>
+    <rule id="35695124">
+        <description><![CDATA[Created after removal of "<Notifications_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Notifications_LICENSE.html</accepts>
+    </rule>
+    <rule id="27e970c">
+        <description><![CDATA[Created after removal of "<Database_README.md>" from Instance Name]]></description>
+        <accepts>Database_README.html</accepts>
+    </rule>
+    <rule id="1393b310">
+        <description><![CDATA[Created after removal of "<Database_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Database_LICENSE.html</accepts>
+    </rule>
+    <rule id="1d53933a">
+        <description><![CDATA[Created after removal of "<Validation_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Validation_LICENSE.html</accepts>
+    </rule>
+    <rule id="bfdff41">
+        <description><![CDATA[Created after removal of "<Redis_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Redis_LICENSE.html</accepts>
+    </rule>
+    <rule id="5096c67e">
+        <description><![CDATA[Created after removal of "<Http_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Http_LICENSE.html</accepts>
+    </rule>
+    <rule id="1e58f4ca">
+        <description><![CDATA[Created after removal of "<Conditionable_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Conditionable_LICENSE.html</accepts>
+    </rule>
+    <rule id="30f2ce16">
+        <description><![CDATA[Created after removal of "<Macroable_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Macroable_LICENSE.html</accepts>
+    </rule>
+    <rule id="58e922ac">
+        <description><![CDATA[Created after removal of "<Session_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Session_LICENSE.html</accepts>
+    </rule>
+    <rule id="594b384c">
+        <description><![CDATA[Created after removal of "<Mail_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Mail_LICENSE.html</accepts>
+    </rule>
+    <rule id="688bbbfe">
+        <description><![CDATA[Created after removal of "<Translation_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Translation_LICENSE.html</accepts>
+    </rule>
+    <rule id="618ad3c1">
+        <description><![CDATA[Created after removal of "<Contracts_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Contracts_LICENSE.html</accepts>
+    </rule>
+    <rule id="ca78d9e">
+        <description><![CDATA[Created after removal of "<Auth_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Auth_LICENSE.html</accepts>
+    </rule>
+    <rule id="371839bd">
+        <description><![CDATA[Created after removal of "<Broadcasting_LICENSE.md>" from Instance Name]]></description>
+        <accepts>Broadcasting_LICENSE.html</accepts>
+    </rule>
+    <rule id="5de7fc5e">
+        <description>Created after removal of "Serializable Closure" from Instance Name</description>
+        <accepts>serializable-closure_README.html</accepts>
+    </rule>
+    <rule id="46e12786">
+        <description>
+            <![CDATA[Created after removal of "<serializable-closure_LICENSE.md>" from Instance Name]]></description>
+        <accepts>serializable-closure_LICENSE.html</accepts>
+    </rule>
+    <rule id="683905f6">
+        <description><![CDATA[Created after removal of "<octane_LICENSE.md>" from Instance Name]]></description>
+        <accepts>octane_LICENSE.html</accepts>
+    </rule>
+    <rule id="86fcae7">
+        <description><![CDATA[Created after removal of "<octane_README.md>" from Instance Name]]></description>
+        <accepts>octane_README.html</accepts>
+    </rule>
+    <rule id="7024b652">
+        <description><![CDATA[Created after removal of "<tinker_LICENSE.md>" from Instance Name]]></description>
+        <accepts>tinker_LICENSE.html</accepts>
+    </rule>
+    <rule id="176bcd51">
+        <description><![CDATA[Created after removal of "<tinker_README.md>" from Instance Name]]></description>
+        <accepts>tinker_README.html</accepts>
+    </rule>
+    <rule id="7e058739">
+        <description><![CDATA[Created after removal of "<pint_LICENSE.md>" from Instance Name]]></description>
+        <accepts>pint_LICENSE.html</accepts>
+    </rule>
+    <rule id="78e3b76a">
+        <description>Created after removal of "CORS for PHP (using the Symfony HttpFoundation)" from Instance Name
+        </description>
+        <accepts>php-cors_README.html</accepts>
+    </rule>
+    <rule id="1eb39cd3">
+        <description>Created after removal of "Doctrine Inflector" from Instance Name</description>
+        <accepts>inflector_README.html</accepts>
+    </rule>
+    <rule id="58d2d255">
+        <description>Created after removal of "Upgrade to 3.0.0" from Instance Name</description>
+        <accepts>UPGRADE.html</accepts>
+    </rule>
+    <rule id="55b0feb8">
+        <description>Created after removal of "Doctrine Lexer" from Instance Name</description>
+        <accepts>lexer_README.html</accepts>
+    </rule>
+    <rule id="4c5e4698">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>tokenizer_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="57a2ff69">
+        <description>Created after removal of "Tokenizer" from Instance Name</description>
+        <accepts>tokenizer_README.html</accepts>
+    </rule>
+    <rule id="157df6cb">
+        <description>Created after removal of "PSR Event Dispatcher" from Instance Name</description>
+        <accepts>event-dispatcher_README.html</accepts>
+    </rule>
+    <rule id="65bf1ebd">
+        <description>Created after removal of "HTTP Client" from Instance Name</description>
+        <accepts>http-client_README.html</accepts>
+    </rule>
+    <rule id="a5bc60b">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>http-client_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="5afe33d4">
+        <description>Created after removal of "HTTP Factories" from Instance Name</description>
+        <accepts>http-factory_README.html</accepts>
+    </rule>
+    <rule id="4fede56">
+        <description>Created after removal of "PSR Log" from Instance Name</description>
+        <accepts>log_README.html</accepts>
+    </rule>
+    <rule id="32556227">
+        <description>Created after removal of "Container interface" from Instance Name</description>
+        <accepts>container_README.html</accepts>
+    </rule>
+    <rule id="6462ddd6">
+        <description>Created after removal of "PSR Clock" from Instance Name</description>
+        <accepts>clock_README.html</accepts>
+    </rule>
+    <rule id="2f59a201">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>clock_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="4e70abb5">
+        <description>Created after removal of "The MIT License (MIT)" from Instance Name</description>
+        <accepts>simple-cache_LICENSE.html</accepts>
+    </rule>
+    <rule id="6d9be3a9">
+        <description>Created after removal of "PHP FIG Simple Cache PSR" from Instance Name</description>
+        <accepts>simple-cache_README.html</accepts>
+    </rule>
+    <rule id="5796fb71">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>http-message_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="2ca4700b">
+        <description>Created after removal of "PSR Http Message" from Instance Name</description>
+        <accepts>http-message_README.html</accepts>
+    </rule>
+    <rule id="25ff58fc">
+        <description>Created after removal of "Interfaces" from Instance Name</description>
+        <accepts>PSR7-Interfaces.html</accepts>
+    </rule>
+    <rule id="6ecba19f">
+        <description><![CDATA[Created after removal of "<PSR7-Usage.md>" from Instance Name]]></description>
+        <accepts>PSR7-Usage.html</accepts>
+    </rule>
+    <rule id="3b5c1382">
+        <description>Created after removal of "🔡 Portable ASCII" from Instance Name</description>
+        <accepts>portable-ascii_README.html</accepts>
+    </rule>
+    <rule id="843006f">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>portable-ascii_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="78b00715">
+        <description>Created after removal of "Webmozart Assert" from Instance Name</description>
+        <accepts>assert_README.html</accepts>
+    </rule>
+    <rule id="50ae88b3">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>assert_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="585ce40e">
+        <description>Created after removal of "The MIT License" from Instance Name</description>
+        <accepts>whoops_LICENSE.html</accepts>
+    </rule>
+    <rule id="49727c0f">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>whoops_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="7e041192">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>whoops_SECURITY.html</accepts>
+    </rule>
+    <rule id="6e2e1850">
+        <description>Created after removal of "This is the PHP port of Hamcrest Matchers" from Instance Name
+        </description>
+        <accepts>hamcrest-php_README.html</accepts>
+    </rule>
+    <rule id="3531cb59">
+        <description><![CDATA[Created after removal of "<termwind_LICENSE.md>" from Instance Name]]></description>
+        <accepts>termwind_LICENSE.html</accepts>
+    </rule>
+    <rule id="13f70b7b">
+        <description><![CDATA[Created after removal of "<collision_LICENSE.md>" from Instance Name]]></description>
+        <accepts>collision_LICENSE.html</accepts>
+    </rule>
+    <rule id="6428ecc1">
+        <description><![CDATA[Created after removal of "<collision_README.md>" from Instance Name]]></description>
+        <accepts>collision_README.html</accepts>
+    </rule>
+    <rule id="1fb5e834">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>cli-parser_SECURITY.html</accepts>
+    </rule>
+    <rule id="1e5990e">
+        <description>Created after removal of "sebastian/cli-parser" from Instance Name</description>
+        <accepts>cli-parser_README.html</accepts>
+    </rule>
+    <rule id="44f76942">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>cli-parser_ChangeLog.html</accepts>
+    </rule>
+    <rule id="58bea094">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>object-enumerator_ChangeLog.html</accepts>
+    </rule>
+    <rule id="786acc46">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>object-enumerator_SECURITY.html</accepts>
+    </rule>
+    <rule id="6f5b79ea">
+        <description>Created after removal of "sebastian/object-enumerator" from Instance Name</description>
+        <accepts>object-enumerator_README.html</accepts>
+    </rule>
+    <rule id="52417640">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>diff_SECURITY.html</accepts>
+    </rule>
+    <rule id="57ed4530">
+        <description>Created after removal of "sebastian/diff" from Instance Name</description>
+        <accepts>diff_README.html</accepts>
+    </rule>
+    <rule id="6584213d">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>diff_ChangeLog.html</accepts>
+    </rule>
+    <rule id="50a91404">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>lines-of-code_SECURITY.html</accepts>
+    </rule>
+    <rule id="6ed016e8">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>lines-of-code_ChangeLog.html</accepts>
+    </rule>
+    <rule id="7fb6a23b">
+        <description>Created after removal of "sebastian/lines-of-code" from Instance Name</description>
+        <accepts>lines-of-code_README.html</accepts>
+    </rule>
+    <rule id="2fc6c1c8">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>version_ChangeLog.html</accepts>
+    </rule>
+    <rule id="22fed671">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>version_SECURITY.html</accepts>
+    </rule>
+    <rule id="517a6836">
+        <description>Created after removal of "sebastian/version" from Instance Name</description>
+        <accepts>sebastian_version_README.html</accepts>
+    </rule>
+    <rule id="12e9d898">
+        <description>Created after removal of "sebastian/comparator" from Instance Name</description>
+        <accepts>comparator_README.html</accepts>
+    </rule>
+    <rule id="15fe1955">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>comparator_SECURITY.html</accepts>
+    </rule>
+    <rule id="6b971b1f">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>comparator_ChangeLog.html</accepts>
+    </rule>
+    <rule id="3f433128">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>exporter_SECURITY.html</accepts>
+    </rule>
+    <rule id="4403128d">
+        <description>Created after removal of "sebastian/exporter" from Instance Name</description>
+        <accepts>exporter_README.html</accepts>
+    </rule>
+    <rule id="6e985900">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>exporter_ChangeLog.html</accepts>
+    </rule>
+    <rule id="1387a670">
+        <description>Created after removal of "sebastian/type" from Instance Name</description>
+        <accepts>type_README.html</accepts>
+    </rule>
+    <rule id="6c2d07cd">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>type_SECURITY.html</accepts>
+    </rule>
+    <rule id="3e646f1b">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>type_ChangeLog.html</accepts>
+    </rule>
+    <rule id="56647539">
+        <description>Created after removal of "sebastian/code-unit" from Instance Name</description>
+        <accepts>code-unit_README.html</accepts>
+    </rule>
+    <rule id="2d9c5ba2">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>code-unit_ChangeLog.html</accepts>
+    </rule>
+    <rule id="5cf8889b">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>code-unit_SECURITY.html</accepts>
+    </rule>
+    <rule id="2d39292a">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>code-unit-reverse-lookup_ChangeLog.html</accepts>
+    </rule>
+    <rule id="5e14f029">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>code-unit-reverse-lookup_SECURITY.html</accepts>
+    </rule>
+    <rule id="7d200012">
+        <description>Created after removal of "sebastian/code-unit-reverse-lookup" from Instance Name</description>
+        <accepts>code-unit-reverse-lookup_README.html</accepts>
+    </rule>
+    <rule id="4f766ad8">
+        <description>Created after removal of "sebastian/object-reflector" from Instance Name</description>
+        <accepts>object-reflector_README.html</accepts>
+    </rule>
+    <rule id="123cc728">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>object-reflector_ChangeLog.html</accepts>
+    </rule>
+    <rule id="4e63991c">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>object-reflector_SECURITY.html</accepts>
+    </rule>
+    <rule id="46e9fae4">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>environment_SECURITY.html</accepts>
+    </rule>
+    <rule id="43deec2f">
+        <description>Created after removal of "Changes in sebastianbergmann/environment" from Instance Name
+        </description>
+        <accepts>environment_ChangeLog.html</accepts>
+    </rule>
+    <rule id="28480c12">
+        <description>Created after removal of "sebastian/environment" from Instance Name</description>
+        <accepts>environment_README.html</accepts>
+    </rule>
+    <rule id="739e422b">
+        <description>Created after removal of "sebastian/complexity" from Instance Name</description>
+        <accepts>complexity_README.html</accepts>
+    </rule>
+    <rule id="2eaac4cd">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>complexity_ChangeLog.html</accepts>
+    </rule>
+    <rule id="3f65b19">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>complexity_SECURITY.html</accepts>
+    </rule>
+    <rule id="505c172c">
+        <description>Created after removal of "sebastian/global-state" from Instance Name</description>
+        <accepts>global-state_README.html</accepts>
+    </rule>
+    <rule id="25af12e9">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>global-state_SECURITY.html</accepts>
+    </rule>
+    <rule id="351424fe">
+        <description>Created after removal of "Changes in sebastian/global-state" from Instance Name</description>
+        <accepts>global-state_ChangeLog.html</accepts>
+    </rule>
+    <rule id="10088ea9">
+        <description>Created after removal of "sebastian/recursion-context" from Instance Name</description>
+        <accepts>recursion-context_README.html</accepts>
+    </rule>
+    <rule id="7f73c239">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>recursion-context_ChangeLog.html</accepts>
+    </rule>
+    <rule id="cb68205">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>recursion-context_SECURITY.html</accepts>
+    </rule>
+    <rule id="16a881c0">
+        <description>Created after removal of "PHP Parser" from Instance Name</description>
+        <accepts>php-parser_README.html</accepts>
+    </rule>
+    <rule id="1417c6a8">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>math_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="6373e200">
+        <description>
+            <![CDATA[Created after removal of "<css-to-inline-styles_LICENSE.md>" from Instance Name]]></description>
+        <accepts>css-to-inline-styles_LICENSE.html</accepts>
+    </rule>
+    <rule id="69fbbb68">
+        <description>Created after removal of "carbonphp/carbon-doctrine-types" from Instance Name</description>
+        <accepts>carbon-doctrine-types_README.html</accepts>
+    </rule>
+    <rule id="337a5abc">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>uri-template_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="6fdbdf64">
+        <description>Created after removal of "uri-template" from Instance Name</description>
+        <accepts>uri-template_README.html</accepts>
+    </rule>
+    <rule id="715cb52c">
+        <description>Created after removal of "Guzzle Upgrade Guide" from Instance Name</description>
+        <accepts>UPGRADING.html</accepts>
+    </rule>
+    <rule id="35628de4">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>guzzle_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="52f997fd">
+        <description>Created after removal of "Guzzle, PHP HTTP client" from Instance Name</description>
+        <accepts>guzzle_README.html</accepts>
+    </rule>
+    <rule id="767efe0d">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>promises_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="20b256ee">
+        <description>Created after removal of "Guzzle Promises" from Instance Name</description>
+        <accepts>promises_README.html</accepts>
+    </rule>
+    <rule id="25fa6ce1">
+        <description>Created after removal of "PSR-7 Message Implementation" from Instance Name</description>
+        <accepts>psr7_README.html</accepts>
+    </rule>
+    <rule id="7ce8fc37">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>psr7_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="4441cd84">
+        <description>Created after removal of "getallheaders" from Instance Name</description>
+        <accepts>getallheaders_README.html</accepts>
+    </rule>
+    <rule id="2743a711">
+        <description>Created after removal of "EmailValidator Changelog" from Instance Name</description>
+        <accepts>email-validator_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="32b4aaab">
+        <description>Created after removal of "Contributing" from Instance Name</description>
+        <accepts>CONTRIBUTING.html</accepts>
+    </rule>
+    <rule id="3530d92f">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>mime-type-detection_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="4ad221f8">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>config_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="3e139e53">
+        <description>Created after removal of "league/config" from Instance Name</description>
+        <accepts>config_README.html</accepts>
+    </rule>
+    <rule id="1fa843ce">
+        <description><![CDATA[Created after removal of "<config_LICENSE.md>" from Instance Name]]></description>
+        <accepts>config_LICENSE.html</accepts>
+    </rule>
+    <rule id="2dc22f8c">
+        <description>Created after removal of "League\Flysystem" from Instance Name</description>
+        <accepts>readme.html</accepts>
+    </rule>
+    <rule id="54d73445">
+        <description><![CDATA[Created after removal of "<INFO.md>" from Instance Name]]></description>
+        <accepts>INFO.html</accepts>
+    </rule>
+    <rule id="118f2936">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>commonmark_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="1c5ebda">
+        <description>Created after removal of "league/commonmark" from Instance Name</description>
+        <accepts>commonmark_README.html</accepts>
+    </rule>
+    <rule id="5f39a9fe">
+        <description>Created after removal of "PHP Cron Expression Parser" from Instance Name</description>
+        <accepts>cron-expression_README.html</accepts>
+    </rule>
+    <rule id="57d12ad8">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>cron-expression_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="1458abec">
+        <description>Created after removal of "Vulnerability Disclosure Policy (VDP)" from Instance Name</description>
+        <accepts>collection_SECURITY.html</accepts>
+    </rule>
+    <rule id="5e381969">
+        <description><![CDATA[Created after removal of "<collection_README.md>" from Instance Name]]></description>
+        <accepts>collection_README.html</accepts>
+    </rule>
+    <rule id="6fb7702a">
+        <description><![CDATA[Created after removal of "<uuid_README.md>" from Instance Name]]></description>
+        <accepts>uuid_README.html</accepts>
+    </rule>
+    <rule id="145c0e90">
+        <description>Created after removal of "PsySH" from Instance Name</description>
+        <accepts>psysh_README.html</accepts>
+    </rule>
+    <rule id="158eb3a2">
+        <description>Created after removal of "Carbon" from Instance Name</description>
+        <accepts>carbon_readme.html</accepts>
+    </rule>
+    <rule id="7ca0fb7b">
+        <description>Created after removal of "Monolog - Logging for PHP [![Continuous
+            Integration](https://github.com/Seldaek/monolog/workflows/Continuous%20Integration/badge.svg?branch=main)](https://github.com/Seldaek/monolog/actions)"
+            from Instance Name
+        </description>
+        <accepts>monolog_README.html</accepts>
+    </rule>
+    <rule id="49f02417">
+        <description><![CDATA[Created after removal of "<monolog_CHANGELOG.md>" from Instance Name]]></description>
+        <accepts>monolog_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="5b21b827">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>php-code-coverage_SECURITY.html</accepts>
+    </rule>
+    <rule id="2c754159">
+        <description>Created after removal of "phpunit/php-code-coverage" from Instance Name</description>
+        <accepts>php-code-coverage_README.html</accepts>
+    </rule>
+    <rule id="4937befe">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>ChangeLog-11.0.html</accepts>
+    </rule>
+    <rule id="15dee1ea">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>php-invoker_SECURITY.html</accepts>
+    </rule>
+    <rule id="29261573">
+        <description>Created after removal of "phpunit/php-invoker" from Instance Name</description>
+        <accepts>php-invoker_README.html</accepts>
+    </rule>
+    <rule id="5d642be1">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>php-invoker_ChangeLog.html</accepts>
+    </rule>
+    <rule id="5cb6eea0">
+        <description>Created after removal of "php-text-template" from Instance Name</description>
+        <accepts>php-text-template_README.html</accepts>
+    </rule>
+    <rule id="1e241508">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>php-text-template_ChangeLog.html</accepts>
+    </rule>
+    <rule id="5299c6f7">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>php-text-template_SECURITY.html</accepts>
+    </rule>
+    <rule id="605426c7">
+        <description>Created after removal of "php-file-iterator" from Instance Name</description>
+        <accepts>php-file-iterator_README.html</accepts>
+    </rule>
+    <rule id="ebeac28">
+        <description>Created after removal of "Change Log" from Instance Name</description>
+        <accepts>ChangeLog.html</accepts>
+    </rule>
+    <rule id="6ed24742">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>php-file-iterator_SECURITY.html</accepts>
+    </rule>
+    <rule id="82ac6df">
+        <description>Created after removal of "phpunit/php-timer" from Instance Name</description>
+        <accepts>php-timer_README.html</accepts>
+    </rule>
+    <rule id="406e3b21">
+        <description>Created after removal of "ChangeLog" from Instance Name</description>
+        <accepts>php-timer_ChangeLog.html</accepts>
+    </rule>
+    <rule id="532d3841">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>php-timer_SECURITY.html</accepts>
+    </rule>
+    <rule id="76043902">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>phpunit_SECURITY.html</accepts>
+    </rule>
+    <rule id="403ef259">
+        <description>Created after removal of "Deprecations" from Instance Name</description>
+        <accepts>DEPRECATIONS.html</accepts>
+    </rule>
+    <rule id="43da36d">
+        <description>Created after removal of "Changes in PHPUnit 11.4" from Instance Name</description>
+        <accepts>ChangeLog-11.4.html</accepts>
+    </rule>
+    <rule id="5f4c2306">
+        <description>Created after removal of "PHPUnit" from Instance Name</description>
+        <accepts>phpunit_README.html</accepts>
+    </rule>
+    <rule id="3787b55e">
+        <description>Created after removal of "Mockery" from Instance Name</description>
+        <accepts>mockery_README.html</accepts>
+    </rule>
+    <rule id="4361ae70">
+        <description>Created after removal of "Contributing" from Instance Name</description>
+        <accepts>mockery_CONTRIBUTING.html</accepts>
+    </rule>
+    <rule id="64fe0253">
+        <description>Created after removal of "Security Policy" from Instance Name</description>
+        <accepts>mockery_SECURITY.html</accepts>
+    </rule>
+    <rule id="69f8eca8">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>mockery_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="50adbff2">
+        <description>Created after removal of "Copyright" from Instance Name</description>
+        <accepts>mockery_COPYRIGHT.html</accepts>
+    </rule>
+    <rule id="65cc1271">
+        <description>Created after removal of "mockery-docs" from Instance Name</description>
+        <accepts>docs_README.html</accepts>
+    </rule>
+    <rule id="2155825c">
+        <description>Created after removal of "DeepCopy" from Instance Name</description>
+        <accepts>deep-copy_README.html</accepts>
+    </rule>
+    <rule id="49d47102">
+        <description><![CDATA[Created after removal of "<COPYRIGHT.md>" from Instance Name]]></description>
+        <accepts>COPYRIGHT.html</accepts>
+    </rule>
+    <rule id="1bd9b50f">
+        <description>Created after removal of "laminas-diactoros" from Instance Name</description>
+        <accepts>laminas-diactoros_README.html</accepts>
+    </rule>
+    <rule id="5e51b0c0">
+        <description>
+            <![CDATA[Created after removal of "<laminas-diactoros_LICENSE.md>" from Instance Name]]></description>
+        <accepts>laminas-diactoros_LICENSE.html</accepts>
+    </rule>
+    <rule id="5cc29a1c">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>faker_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="3587a072">
+        <description>Created after removal of "Faker" from Instance Name</description>
+        <accepts>faker_README.html</accepts>
+    </rule>
+    <rule id="702a374d">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>manifest_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="73054c6d">
+        <description>Created after removal of "Manifest" from Instance Name</description>
+        <accepts>manifest_README.html</accepts>
+    </rule>
+    <rule id="c5a6672">
+        <description>Created after removal of "Version" from Instance Name</description>
+        <accepts>version_README.html</accepts>
+    </rule>
+    <rule id="2ad23b56">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>version_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="4e68f506">
+        <description>Created after removal of "Dot Access Data" from Instance Name</description>
+        <accepts>dot-access-data_README.html</accepts>
+    </rule>
+    <rule id="51f6c6a5">
+        <description>Created after removal of "Changelog" from Instance Name</description>
+        <accepts>dot-access-data_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="2b04f211">
+        <description><![CDATA[Created after removal of "<utils_readme.md>" from Instance Name]]></description>
+        <accepts>utils_readme.html</accepts>
+    </rule>
+    <rule id="1dad6cee">
+        <description>Created after removal of "Licenses" from Instance Name</description>
+        <accepts>utils_license.html</accepts>
+    </rule>
+    <rule id="3037cec5">
+        <description>Created after removal of "Introduction" from Instance Name</description>
+        <accepts>schema_readme.html</accepts>
+    </rule>
+    <rule id="2359b1ff">
+        <description>Created after removal of "Licenses" from Instance Name</description>
+        <accepts>license.html</accepts>
+    </rule>
+    <rule id="70de7e9">
+        <description>Created after removal of "Routing Component" from Instance Name</description>
+        <accepts>routing_README.html</accepts>
+    </rule>
+    <rule id="564cf89">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>routing_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="5cab6c65">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>mailer_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="6f026d1">
+        <description>Created after removal of "Mailer Component" from Instance Name</description>
+        <accepts>mailer_README.html</accepts>
+    </rule>
+    <rule id="47d59688">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>mime_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="79f191ba">
+        <description>Created after removal of "MIME Component" from Instance Name</description>
+        <accepts>mime_README.html</accepts>
+    </rule>
+    <rule id="4daeee35">
+        <description>Created after removal of "Symfony Deprecation Contracts" from Instance Name</description>
+        <accepts>deprecation-contracts_README.html</accepts>
+    </rule>
+    <rule id="58a7ee3e">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>deprecation-contracts_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="3a8c2c7a">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>yaml_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="16fcd309">
+        <description>Created after removal of "Yaml Component" from Instance Name</description>
+        <accepts>yaml_README.html</accepts>
+    </rule>
+    <rule id="b6aa33c">
+        <description>Created after removal of "Process Component" from Instance Name</description>
+        <accepts>process_README.html</accepts>
+    </rule>
+    <rule id="44b3802c">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>process_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="7cbf9d1a">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>console_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="3cf628e6">
+        <description>Created after removal of "Console Component" from Instance Name</description>
+        <accepts>console_README.html</accepts>
+    </rule>
+    <rule id="55bcbeb6">
+        <description>Created after removal of "Symfony Polyfill / Intl: Normalizer" from Instance Name</description>
+        <accepts>polyfill-intl-normalizer_README.html</accepts>
+    </rule>
+    <rule id="61fee3f6">
+        <description>Created after removal of "CssSelector Component" from Instance Name</description>
+        <accepts>css-selector_README.html</accepts>
+    </rule>
+    <rule id="6fd386fc">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>css-selector_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="66501120">
+        <description>Created after removal of "Symfony Polyfill / Mbstring" from Instance Name</description>
+        <accepts>polyfill-mbstring_README.html</accepts>
+    </rule>
+    <rule id="3f613733">
+        <description>Created after removal of "Symfony Polyfill / Ctype" from Instance Name</description>
+        <accepts>polyfill-ctype_README.html</accepts>
+    </rule>
+    <rule id="7724e63a">
+        <description>Created after removal of "Symfony Translation Contracts" from Instance Name</description>
+        <accepts>translation-contracts_README.html</accepts>
+    </rule>
+    <rule id="282b1d57">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>translation-contracts_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="2ba993b3">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>event-dispatcher-contracts_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="52c89af4">
+        <description>Created after removal of "Symfony EventDispatcher Contracts" from Instance Name</description>
+        <accepts>event-dispatcher-contracts_README.html</accepts>
+    </rule>
+    <rule id="268cd0c7">
+        <description>Created after removal of "Symfony Polyfill / Intl: Grapheme" from Instance Name</description>
+        <accepts>polyfill-intl-grapheme_README.html</accepts>
+    </rule>
+    <rule id="4dfbc868">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>service-contracts_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="5528f876">
+        <description>Created after removal of "Symfony Service Contracts" from Instance Name</description>
+        <accepts>service-contracts_README.html</accepts>
+    </rule>
+    <rule id="6b486d50">
+        <description>Created after removal of "VarDumper Component" from Instance Name</description>
+        <accepts>var-dumper_README.html</accepts>
+    </rule>
+    <rule id="5157af95">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>var-dumper_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="6faa9b88">
+        <description>Created after removal of "PSR-7 Bridge" from Instance Name</description>
+        <accepts>psr-http-message-bridge_README.html</accepts>
+    </rule>
+    <rule id="27c3b524">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>psr-http-message-bridge_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="957c2ab">
+        <description>Created after removal of "Symfony Polyfill / Php83" from Instance Name</description>
+        <accepts>polyfill-php83_README.html</accepts>
+    </rule>
+    <rule id="1caab29d">
+        <description>Created after removal of "EventDispatcher Component" from Instance Name</description>
+        <accepts>symfony_event-dispatcher_README.html</accepts>
+    </rule>
+    <rule id="16caea37">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>event-dispatcher_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="31cd2fd6">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>string_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="7d0ffca6">
+        <description>Created after removal of "String Component" from Instance Name</description>
+        <accepts>string_README.html</accepts>
+    </rule>
+    <rule id="196fec55">
+        <description>Created after removal of "HttpKernel Component" from Instance Name</description>
+        <accepts>http-kernel_README.html</accepts>
+    </rule>
+    <rule id="410edf96">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>http-kernel_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="439a331a">
+        <description>Created after removal of "Uid Component" from Instance Name</description>
+        <accepts>uid_README.html</accepts>
+    </rule>
+    <rule id="501ee8df">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>uid_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="550fb388">
+        <description>Created after removal of "Symfony Polyfill / Php80" from Instance Name</description>
+        <accepts>polyfill-php80_README.html</accepts>
+    </rule>
+    <rule id="4b6eaf96">
+        <description>Created after removal of "ErrorHandler Component" from Instance Name</description>
+        <accepts>error-handler_README.html</accepts>
+    </rule>
+    <rule id="1a39371">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>error-handler_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="44eeaed">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>symfony_clock_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="73b94442">
+        <description>Created after removal of "Clock Component" from Instance Name</description>
+        <accepts>symfony_clock_README.html</accepts>
+    </rule>
+    <rule id="1d1a5d34">
+        <description>Created after removal of "HttpFoundation Component" from Instance Name</description>
+        <accepts>http-foundation_README.html</accepts>
+    </rule>
+    <rule id="64859f8f">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>http-foundation_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="54b9b14d">
+        <description>Created after removal of "Symfony Polyfill / Uuid" from Instance Name</description>
+        <accepts>polyfill-uuid_README.html</accepts>
+    </rule>
+    <rule id="7bee8d0">
+        <description>Created after removal of "Finder Component" from Instance Name</description>
+        <accepts>finder_README.html</accepts>
+    </rule>
+    <rule id="20c73ce0">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>finder_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="26ac2d63">
+        <description>Created after removal of "Symfony Polyfill / Intl: Idn" from Instance Name</description>
+        <accepts>polyfill-intl-idn_README.html</accepts>
+    </rule>
+    <rule id="27fba1e0">
+        <description>Created after removal of "Translation Component" from Instance Name</description>
+        <accepts>translation_README.html</accepts>
+    </rule>
+    <rule id="630430b7">
+        <description>Created after removal of "CHANGELOG" from Instance Name</description>
+        <accepts>translation_CHANGELOG.html</accepts>
+    </rule>
+    <rule id="144dcb62">
+        <description><![CDATA[Created after removal of "<README.md>" from Instance Name]]></description>
+        <accepts>README.html</accepts>
+    </rule>
+</rules>
